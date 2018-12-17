@@ -7,3 +7,7 @@
 3) The utility creates a compressed cabinet of all the VS and .NET logs to `%TEMP%\vslogs.zip`. 
 
 4) Upload your `vslogs.zip`.
+
+Reference link:
+
+-  https://support.microsoft.com/en-us/help/4024662/collect-visual-studio-logs
