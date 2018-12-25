@@ -1,8 +1,8 @@
 
-  | Link | 简介
+  | Link | 简介 |
 | ------ | ------ | ------ |
-| [codekk](http://p.codekk.com/) | 专注于Android开源分享、源码分析、文章推荐 
-| [gityuan](http://gityuan.com/) | 基于 Android 6.0 源码，擅长于 Android 原理、架构分析 
+| [codekk](http://p.codekk.com/) | 专注于Android开源分享、源码分析、文章推荐 |
+| [gityuan](http://gityuan.com/) | 基于 Android 6.0 源码，擅长于 Android 原理、架构分析 |
 | [stormzhang](http://p.codekk.com/) | Android 学习之路以及其他一些博客文章确实对初学者很有价值
 | [trinea](http://www.trinea.cn/) | Focus on Android, Java, Open Source, Performance Optimization
 | [小黑屋](http://droidyue.com/) | 专注于分享高质量Java和Android技术文章
