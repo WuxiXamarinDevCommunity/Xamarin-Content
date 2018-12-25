@@ -47,13 +47,32 @@ More information, please refer to:  [Hardware acceleration for emulator performa
   - [Android BroadcastReceiver使用详解](https://www.jianshu.com/p/f348f6d7fe59)
 - [Content providers](https://developer.android.com/guide/topics/providers/content-providers?hl=en-us)
   - [Android：关于ContentProvider的知识都在这里了！](https://blog.csdn.net/carson_ho/article/details/76101093)
-- Android UI 
+- [Android UI](https://developer.android.com/guide/topics/ui/) 
   - [ListView的基本使用与优化](http://www.cnblogs.com/noTice520/archive/2011/12/05/2276379.html)
+  - 算了，不写了。内容太多，建议仔细查看文档
 - [Android 屏幕适配](https://developer.android.com/guide/practices/screens_support?hl=en-us)
   - [Android 屏幕适配：最全面的解决方案](https://www.jianshu.com/p/ec5a1a30694b)
   - [一种极低成本的Android屏幕适配方式](https://zhuanlan.zhihu.com/p/37199709)
   - [Android屏幕适配全攻略(最权威的官方适配指导)](https://blog.csdn.net/zhaokaiqiang1992/article/details/45419023)
 - [Android 中 SQLite 应用详解](https://blog.csdn.net/liuhe688/article/details/6715983)
+- [Styles and Themes](https://developer.android.com/guide/topics/ui/look-and-feel/themes)
+    - [Android开发之Theme、Style探索及源码浅析](https://blog.csdn.net/yanbober/article/details/51015630)
+- [Permission](https://developer.android.com/guide/topics/permissions/overview)
+  - [Request App Permissions](https://developer.android.com/training/permissions/requesting?hl=en-us)
+- File System
+  - [Android 中的内部存储与外部存储](https://blog.csdn.net/u012702547/article/details/50269639)
+  - [FileProvider Overview](https://developer.android.com/reference/android/support/v4/content/FileProvider)
+  - [关于 Android 7.0 适配中 FileProvider 部分的总结](http://yifeng.studio/2017/05/03/android-7-0-compat-fileprovider/)
+  - [Android 7.0 行为变更 通过FileProvider在应用间共享文件](https://blog.csdn.net/lmj623565791/article/details/72859156)
+  - [Android FileProvider的使用](https://blog.csdn.net/Next_Second/article/details/78585745)
+- [Resources](https://developer.android.com/guide/topics/resources/providing-resources?hl=zh-cn#Accessing)
+- [AndroidManifest.xml](https://developer.android.com/guide/topics/manifest/manifest-intro?hl=zh-cn)
+- Android View 的工作原理
+  - [事件分发机制](https://blog.csdn.net/xyz_lmn/article/details/12517911)
+  - [一个很好的讲解自定义 View 的 blog](https://blog.csdn.net/lfdfhl/article/details/51671038)
+- Android 消息机制
+  -  [Handler详解系列—— Handler异步消息机制详解(附图)](https://blog.csdn.net/lfdfhl/article/details/40016165)
+
 
 ## Android 进阶
 
