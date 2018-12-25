@@ -34,7 +34,7 @@ More information, please refer to:  [Hardware acceleration for emulator performa
 - [Android四大基本组件介绍与生命周期](http://www.cnblogs.com/bravestarrhu/archive/2012/05/02/2479461.html)
 - [Activity](https://developer.android.com/reference/android/app/Activity)
     - [Android系统用于Activity的标准Intent](https://blog.csdn.net/zhangjg_blog/article/details/10901293)
-        - [Intent解决了Android中四大组件的通讯，非常有用，这篇博客收集整理了系统的标准Intent]()
+        - Intent解决了Android中四大组件的通讯，非常有用，这篇博客收集整理了系统的标准Intent
     - [Activity与Service生命周期](http://gityuan.com/2015/05/31/android-lifecycle/)
     - [两分钟彻底让你明白Android Activity生命周期(图文)](https://blog.csdn.net/android_tutor/article/details/5772285)
 - [Service](https://developer.android.com/guide/components/services?hl=en-us)
@@ -45,6 +45,8 @@ More information, please refer to:  [Hardware acceleration for emulator performa
 - [Broadcasts](https://developer.android.com/guide/components/broadcasts)
   - [Android四大组件：BroadcastReceiver史上最全面解析](https://blog.csdn.net/carson_ho/article/details/52973504)
   - [Android BroadcastReceiver使用详解](https://www.jianshu.com/p/f348f6d7fe59)
+- [Content providers](https://developer.android.com/guide/topics/providers/content-providers?hl=en-us)
+  - [Android：关于ContentProvider的知识都在这里了！](https://blog.csdn.net/carson_ho/article/details/76101093)
 - Android UI 
   - [ListView的基本使用与优化](http://www.cnblogs.com/noTice520/archive/2011/12/05/2276379.html)
 - [Android 屏幕适配](https://developer.android.com/guide/practices/screens_support?hl=en-us)
@@ -57,6 +59,8 @@ More information, please refer to:  [Hardware acceleration for emulator performa
 
 - [Android开发规范](http://gityuan.com/2015/08/10/android-arch-coding-style/)
 - [AndroidStudio常用快捷键](http://gityuan.com/2015/08/08/android-studio-shortcut/)
+
+- [理解ContentProvider原理](http://gityuan.com/2016/07/30/content-provider/)
 
 - [四大组件之BroadcastRecord](http://gityuan.com/2017/06/03/broadcast_record/)
 - [Android Broadcast广播机制分析](http://gityuan.com/2016/06/04/broadcast-receiver/)
