@@ -15,6 +15,8 @@
 | [代码家](https://gank.io/) | 
 | [一叶飘舟](https://blog.csdn.net/jdsjlzx) | 热爱 Android 技术并乐于分享
 | [谷哥的小弟](https://blog.csdn.net/lfdfhl) | 
+| [廖子尧](https://www.jianshu.com/u/d82085ac0ace) | 
+| [严振杰](https://blog.csdn.net/yanzhenjie1003)
 
 ## 官网咨询
 - [Android官方网站](http://developer.android.com/intl/zh-cn/index.html)；最权威的Google官方资料，极力推荐；
