@@ -50,6 +50,13 @@ More information, please refer to:  [Hardware acceleration for emulator performa
 - [Android UI](https://developer.android.com/guide/topics/ui/) 
   - [ListView的基本使用与优化](http://www.cnblogs.com/noTice520/archive/2011/12/05/2276379.html)
   - 算了，不写了。内容太多，建议仔细查看文档
+- [Notification](https://developer.android.com/guide/topics/ui/notifiers/notifications?hl=en-us)
+  - [A Notification Demo](https://github.com/ZLOVE320483/Notification/)
+  - [NotificationChannel 适配填坑指南](https://www.jianshu.com/p/99bc32cd8ad6)
+  - [Android Oreo 通知新特性，这坑老夫先踩了](https://zhuanlan.zhihu.com/p/32930310)
+  - [Android Notification的使用](https://www.jianshu.com/p/ec67ba83934a)
+  - [**Android通知栏微技巧，8.0系统中通知栏的适配**](https://blog.csdn.net/guolin_blog/article/details/79854070)
+  - [Android O(8.0)通知栏适配](https://blog.csdn.net/rentee/article/details/78303532)
 - [Android 屏幕适配](https://developer.android.com/guide/practices/screens_support?hl=en-us)
   - [Android 屏幕适配：最全面的解决方案](https://www.jianshu.com/p/ec5a1a30694b)
   - [一种极低成本的Android屏幕适配方式](https://zhuanlan.zhihu.com/p/37199709)

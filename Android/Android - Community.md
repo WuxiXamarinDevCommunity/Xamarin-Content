@@ -31,7 +31,7 @@
 
 ## 资源库
 - [Android-arsenal.com](https://android-arsenal.com/)：vbauer整理的Github开源库与工具带搜索功能，是国外整理得最全面的库；
-- [Android-open-project](https://github.com/Trinea/android-open-project)：Trinea整理的各种开源库，是国内整理得最全面的库；
+- [**Android-open-project**](https://github.com/Trinea/android-open-project)：Trinea整理的各种开源库，是国内整理得最全面的库；
 - [codeKK.com](http://a.codekk.com/)：从源码的角度分析Android优秀开源框架；
 - [codota.com](https://www.codota.com/)：收集各种API优秀示例Java代码并提供搜索功能。
 - [androidxref](http://androidxref.com/)：查看Android系统源码。
