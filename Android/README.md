@@ -88,13 +88,21 @@ More information, please refer to:  [Hardware acceleration for emulator performa
   - [浅析android的OOM问题](https://www.jianshu.com/p/ee78eb0fb651)   
   - [Android OOM案例分析](https://tech.meituan.com/oom_analysis.html)
   - [Android避免OOM（内存优化）](https://www.jianshu.com/p/f5d8d3066b36)
+  - [Android内存泄漏的八种可能（上）](https://www.jianshu.com/p/ac00e370f83d)
 - Android 开源框架
   - [Android常用库之遇见你真舒心](https://www.jianshu.com/p/19368c2cdcaf)
   - [2017 Android GitHub 常用开源框架汇总](https://blog.csdn.net/QDJdeveloper/article/details/75074600)
   - 博客只做示例
 - [APP优化](http://gityuan.com/2015/09/26/App-optimize1/)
-
-
+  - [Android性能优化的方方面面](https://www.jianshu.com/p/b3b09fa29f65)
+  - [性能优化的几大考虑(有些 Android 开发基础再看)](https://github.com/Piasy/notes/blob/master/Android-Java/AndroidPerformancePatterns.md)
+- Android Crash
+  - [Android开发之打造永不崩溃的APP——Crash防护](https://www.jianshu.com/p/01b69d91a3a8)
+  - [Cockroach](https://github.com/android-notes/Cockroach)
+  - [Recovery --> a crash recovery framework](https://github.com/Sunzxyong/Recovery)
+  - [Android 平台 Native 代码的崩溃捕获机制及实现](http://www.10tiao.com/html/330/201707/2653579163/1.html)
+  - [Android进阶——Crash异常捕获并发送到服务器](https://blog.csdn.net/qq_30379689/article/details/53731646)
+  - [理解Android Crash处理流程](http://gityuan.com/2016/06/24/app-crash/) 
 ## Android 进阶
 
 思考
@@ -149,3 +157,4 @@ Android
 - [Binder系列—开篇](http://gityuan.com/2015/10/31/binder-prepare/)
 - [为什么 Android 要采用 Binder 作为 IPC 机制？](https://www.zhihu.com/question/39440766/answer/89210950)
 - [Android源码开发环境搭建](http://gityuan.com/2016/08/13/android-os-env/)
+- [Android中为什么主线程不会因为Looper.loop()里的死循环卡死？](https://www.zhihu.com/question/34652589/answer/90344494?from=profile_answer_card)
