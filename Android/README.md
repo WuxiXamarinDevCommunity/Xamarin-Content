@@ -79,14 +79,52 @@ More information, please refer to:  [Hardware acceleration for emulator performa
   - [一个很好的讲解自定义 View 的 blog](https://blog.csdn.net/lfdfhl/article/details/51671038)
 - Android 消息机制
   -  [Handler详解系列—— Handler异步消息机制详解(附图)](https://blog.csdn.net/lfdfhl/article/details/40016165)
-
-
+- [Android进程生命周期与ADJ](http://gityuan.com/2015/10/01/process-lifecycle/)
 ## Android 进阶
 
-- [Android开发规范](http://gityuan.com/2015/08/10/android-arch-coding-style/)
-- [AndroidStudio常用快捷键](http://gityuan.com/2015/08/08/android-studio-shortcut/)
+思考
 
+- [Android 系统/手机 有哪些好?](https://www.zhihu.com/question/37801069/answer/97391748)
+- [****如何自学Android？****](https://zhuanlan.zhihu.com/p/20708611)
+- [Android 进阶之路](https://blog.csdn.net/u011240877/article/details/68939826)
+- [你和高级工程师的差距在哪里？](https://zhuanlan.zhihu.com/p/21960033)
+
+开发技巧
+
+- [Android 开发规范](http://gityuan.com/2015/08/10/android-arch-coding-style/)
+- [Android Studio 常用快捷键](http://gityuan.com/2015/08/08/android-studio-shortcut/)
+- [adb常用命令笔记](http://gityuan.com/2015/06/28/adb-notes/)
+- [Git常用命令](http://gityuan.com/2015/06/27/git-notes/)
+
+
+书籍
+
+- [深入理解 Android 内核设计思想](https://www.oschina.net/question/2720166_2254666)
+- [**Android 开发艺术探索**](https://www.zhihu.com/question/36115286)
+- [深入剖析 Android 新特性](https://www.oschina.net/question/2720166_2280238)
+
+Android
+
+- [Android事件分发机制](http://gityuan.com/2015/09/19/android-touch/)
 - [理解ContentProvider原理](http://gityuan.com/2016/07/30/content-provider/)
-
 - [四大组件之BroadcastRecord](http://gityuan.com/2017/06/03/broadcast_record/)
 - [Android Broadcast广播机制分析](http://gityuan.com/2016/06/04/broadcast-receiver/)
+- [startActivity启动过程分析](http://gityuan.com/2016/03/12/start-activity/)
+- [startService启动过程分析](http://gityuan.com/2016/03/06/start-service/)
+
+**非常赞的文章**
+
+- [**Android系统开篇**](http://gityuan.com/android/)
+- [全面剖析SharedPreferences](http://gityuan.com/2017/06/18/SharedPreferences/)
+
+## Android 高阶
+
+- [Android耗电统计算法](http://gityuan.com/2016/01/10/power_rank/)
+- [AMS之dumpsys篇](http://gityuan.com/2017/07/04/ams_dumpsys/)
+- [性能工具Traceview](http://gityuan.com/2016/01/17/traceview/)
+- [性能工具Systrace](http://gityuan.com/2016/01/17/systrace/)
+- [Android调试技巧](http://gityuan.com/2017/07/11/android_debug/)
+- [Binder概述](http://gityuan.com/2014/01/01/binder-gaishu/)
+- [Binder系列—开篇](http://gityuan.com/2015/10/31/binder-prepare/)
+- [为什么 Android 要采用 Binder 作为 IPC 机制？](https://www.zhihu.com/question/39440766/answer/89210950)
+-
