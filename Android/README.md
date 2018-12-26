@@ -81,6 +81,20 @@ More information, please refer to:  [Hardware acceleration for emulator performa
   -  [Handler详解系列—— Handler异步消息机制详解(附图)](https://blog.csdn.net/lfdfhl/article/details/40016165)
 - [Android进程生命周期与ADJ](http://gityuan.com/2015/10/01/process-lifecycle/)
 - [Android Context完全解析](https://blog.csdn.net/guolin_blog/article/details/47028975)
+- [**ANR**](https://developer.android.com/topic/performance/vitals/anr)
+  - [Android ANR：原理分析及解决办法](https://www.jianshu.com/p/388166988cef)
+  - [理解Android ANR的触发原理](http://gityuan.com/2016/07/02/android-anr/)
+- **OOM**
+  - [浅析android的OOM问题](https://www.jianshu.com/p/ee78eb0fb651)   
+  - [Android OOM案例分析](https://tech.meituan.com/oom_analysis.html)
+  - [Android避免OOM（内存优化）](https://www.jianshu.com/p/f5d8d3066b36)
+- Android 开源框架
+  - [Android常用库之遇见你真舒心](https://www.jianshu.com/p/19368c2cdcaf)
+  - [2017 Android GitHub 常用开源框架汇总](https://blog.csdn.net/QDJdeveloper/article/details/75074600)
+  - 博客只做示例
+- [APP优化](http://gityuan.com/2015/09/26/App-optimize1/)
+
+
 ## Android 进阶
 
 思考
@@ -106,12 +120,18 @@ More information, please refer to:  [Hardware acceleration for emulator performa
 
 Android
 
+- [Android Instant Apps](https://developer.android.com/topic/google-play-instant/)
+  - [什么是安卓Instant App(即时App)?](https://code.tutsplus.com/zh-hans/tutorials/what-are-android-instant-apps--cms-29283)
+  - [Android Instant App --> Hello World project]()
+  - [Google 版小程序 Instant Apps，到底怎么样？](https://zhuanlan.zhihu.com/p/27044515)
 - [Android事件分发机制](http://gityuan.com/2015/09/19/android-touch/)
 - [理解ContentProvider原理](http://gityuan.com/2016/07/30/content-provider/)
 - [四大组件之BroadcastRecord](http://gityuan.com/2017/06/03/broadcast_record/)
 - [Android Broadcast广播机制分析](http://gityuan.com/2016/06/04/broadcast-receiver/)
 - [startActivity启动过程分析](http://gityuan.com/2016/03/12/start-activity/)
 - [startService启动过程分析](http://gityuan.com/2016/03/06/start-service/)
+- [NotificationManagerService原理分析](http://gityuan.com/2018/03/03/notification/)
+
 
 **非常赞的文章**
 
