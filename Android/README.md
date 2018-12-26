@@ -80,6 +80,7 @@ More information, please refer to:  [Hardware acceleration for emulator performa
 - Android 消息机制
   -  [Handler详解系列—— Handler异步消息机制详解(附图)](https://blog.csdn.net/lfdfhl/article/details/40016165)
 - [Android进程生命周期与ADJ](http://gityuan.com/2015/10/01/process-lifecycle/)
+- [Android Context完全解析](https://blog.csdn.net/guolin_blog/article/details/47028975)
 ## Android 进阶
 
 思考
@@ -127,4 +128,4 @@ Android
 - [Binder概述](http://gityuan.com/2014/01/01/binder-gaishu/)
 - [Binder系列—开篇](http://gityuan.com/2015/10/31/binder-prepare/)
 - [为什么 Android 要采用 Binder 作为 IPC 机制？](https://www.zhihu.com/question/39440766/answer/89210950)
--
+- [Android源码开发环境搭建](http://gityuan.com/2016/08/13/android-os-env/)
