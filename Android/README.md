@@ -103,6 +103,12 @@ More information, please refer to:  [Hardware acceleration for emulator performa
   - [Android 平台 Native 代码的崩溃捕获机制及实现](http://www.10tiao.com/html/330/201707/2653579163/1.html)
   - [Android进阶——Crash异常捕获并发送到服务器](https://blog.csdn.net/qq_30379689/article/details/53731646)
   - [理解Android Crash处理流程](http://gityuan.com/2016/06/24/app-crash/) 
+- [Android 热启动&冷启动](https://developer.android.com/topic/performance/vitals/launch-time)
+  - [Android App 冷启动优化方案](https://juejin.im/post/5aec28bb6fb9a07ac90d13dc)
+  - [Avoiding cold starts on Android](http://saulmm.github.io/avoding-android-cold-starts)
+  - [一触即发 App启动优化最佳实践](https://www.jianshu.com/p/672d9bbbf684)
+
+
 ## Android 进阶
 
 思考
